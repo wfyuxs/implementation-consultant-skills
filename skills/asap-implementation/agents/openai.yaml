@@ -1,0 +1,4 @@
+interface:
+  display_name: "ASAP 实施规划与交付"
+  short_description: "按 ASAP 五阶段编制实施计划、业务蓝图、阶段验收与上线交接方案"
+  default_prompt: "使用 $asap-implementation，根据现有项目资料制定实施计划，明确交付物、责任人、依赖和阶段验收证据。"
